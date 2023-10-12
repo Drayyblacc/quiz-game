@@ -188,6 +188,7 @@ function queCounter(index){
     let totalQueCounTag = '<span><p>'+ index +'</p> of <p>'+ questions.length +'</p> Questions</span>';
     bottom_ques_counter.innerHTML = totalQueCounTag;  
 }
+
 let questions = [
     {
     numb: 1,
@@ -234,61 +235,6 @@ options: [
 },
 {
 numb: 5,
-question: "What color is the sky?",
-answer: "Sky Blue",
-options: [
-  "Dark Blue",
-  "Red",
-  "Light Blue",
-  "Sky Blue"
-]
-},
-{
-numb: 6,
-question: "What color is the sky?",
-answer: "Sky Blue",
-options: [
-  "Dark Blue",
-  "Red",
-  "Light Blue",
-  "Sky Blue"
-]
-},
-{
-numb: 7,
-question: "What color is the sky?",
-answer: "Sky Blue",
-options: [
-  "Dark Blue",
-  "Red",
-  "Light Blue",
-  "Sky Blue"
-]
-},
-{
-numb: 8,
-question: "What color is the sky?",
-answer: "Sky Blue",
-options: [
-  "Dark Blue",
-  "Red",
-  "Light Blue",
-  "Sky Blue"
-]
-},
-{
-numb: 9,
-question: "What color is the sky?",
-answer: "Sky Blue",
-options: [
-  "Dark Blue",
-  "Red",
-  "Light Blue",
-  "Sky Blue"
-]
-},
-{
-numb: 10,
 question: "What color is the sky?",
 answer: "Sky Blue",
 options: [

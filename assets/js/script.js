@@ -203,13 +203,13 @@ function queCounter(index){
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "What color is the grass?",
+    answer: "Green",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "Blue",
+      "Green",
+      "White",
+      "Pink"
     ]
   },
     {
@@ -224,34 +224,34 @@ let questions = [
     ]
   },{
   numb: 3,
-  question: "What color is the sky?",
-  answer: "Sky Blue",
+  question: "How many days are in a week?",
+  answer: "7 Days",
   options: [
-    "Dark Blue",
-    "Red",
-    "Light Blue",
-    "Sky Blue"
+    "7 Days",
+    "8 Days",
+    "3 Days",
+    "11 Days"
   ]
 },
 {
 numb: 4,
-question: "What color is the sky?",
-answer: "Sky Blue",
+question: "What day is Christmas Day?",
+answer: "25th December",
 options: [
-  "Dark Blue",
-  "Red",
-  "Light Blue",
-  "Sky Blue"
+  "9th June",
+  "25th December",
+  "11th July",
+  "6th March"
 ]
 },
 {
 numb: 5,
-question: "What color is the sky?",
-answer: "Sky Blue",
+question: "Where do we get Milk from?",
+answer: "Cows",
 options: [
-  "Dark Blue",
-  "Red",
-  "Light Blue",
-  "Sky Blue"
+  "Horses",
+  "Donkeys",
+  "Cows",
+  "Cats"
 ]
 },]

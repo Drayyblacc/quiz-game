@@ -25,6 +25,17 @@ continue_btn.onclick = ()=>{
     startTimer(15); 
     startTimerLine(0); 
 }
+
+let timeValue =  15;
+let que_count = 0;
+let que_numb = 1;
+let userScore = 0;
+let counter;
+let counterLine;
+let widthValue = 0;
+const restart_quiz = result_box.querySelector(".buttons .restart");
+const quit_quiz = result_box.querySelector(".buttons .quit");
+
 // if restartQuiz button clicked
 restart_quiz.onclick = ()=>{
     quiz_box.classList.add("activeQuiz"); 

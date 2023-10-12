@@ -211,3 +211,83 @@ let questions = [
       "Sky Blue"
     ]
   },
+  numb: 3,
+  question: "What color is the sky?",
+  answer: "Sky Blue",
+  options: [
+    "Dark Blue",
+    "Red",
+    "Light Blue",
+    "Sky Blue"
+  ]
+},
+numb: 4,
+question: "What color is the sky?",
+answer: "Sky Blue",
+options: [
+  "Dark Blue",
+  "Red",
+  "Light Blue",
+  "Sky Blue"
+]
+},
+numb: 5,
+question: "What color is the sky?",
+answer: "Sky Blue",
+options: [
+  "Dark Blue",
+  "Red",
+  "Light Blue",
+  "Sky Blue"
+]
+},
+numb: 6,
+question: "What color is the sky?",
+answer: "Sky Blue",
+options: [
+  "Dark Blue",
+  "Red",
+  "Light Blue",
+  "Sky Blue"
+]
+},
+numb: 7,
+question: "What color is the sky?",
+answer: "Sky Blue",
+options: [
+  "Dark Blue",
+  "Red",
+  "Light Blue",
+  "Sky Blue"
+]
+},
+numb: 8,
+question: "What color is the sky?",
+answer: "Sky Blue",
+options: [
+  "Dark Blue",
+  "Red",
+  "Light Blue",
+  "Sky Blue"
+]
+},
+numb: 9,
+question: "What color is the sky?",
+answer: "Sky Blue",
+options: [
+  "Dark Blue",
+  "Red",
+  "Light Blue",
+  "Sky Blue"
+]
+},
+numb: 10,
+question: "What color is the sky?",
+answer: "Sky Blue",
+options: [
+  "Dark Blue",
+  "Red",
+  "Light Blue",
+  "Sky Blue"
+]
+},

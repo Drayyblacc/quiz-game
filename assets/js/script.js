@@ -172,6 +172,22 @@ function startTimer(time){
         }
     }
 }
+function startTimerLine(time){
+    counterLine = setInterval(timer, 29);
+    function timer(){
+        time += 1; //upgrading time value with 1
+        time_line.style.width = time + "px"; 
+        if(time > 549){ 
+            clearInterval(counterLine); 
+        }
+    }
+}
+
+function queCounter(index){
+    //creating a new span tag and passing the question number and total question
+    let totalQueCounTag = '<span><p>'+ index +'</p> of <p>'+ questions.length +'</p> Questions</span>';
+    bottom_ques_counter.innerHTML = totalQueCounTag;  
+}
 let questions = [
     {
     numb: 1,
@@ -195,19 +211,3 @@ let questions = [
       "Sky Blue"
     ]
   },
-function startTimerLine(time){
-    counterLine = setInterval(timer, 29);
-    function timer(){
-        time += 1; //upgrading time value with 1
-        time_line.style.width = time + "px"; 
-        if(time > 549){ 
-            clearInterval(counterLine); 
-        }
-    }
-}
-
-function queCounter(index){
-    //creating a new span tag and passing the question number and total question
-    let totalQueCounTag = '<span><p>'+ index +'</p> of <p>'+ questions.length +'</p> Questions</span>';
-    bottom_ques_counter.innerHTML = totalQueCounTag;  
-}

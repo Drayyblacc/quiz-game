@@ -111,7 +111,7 @@ body{
     border: none;
     outline: none;
     border-radius: 5px;
-    border: 1px solid:aqua;
+    border: 1px solid: aqua;
     transition: all 0.3s ease;
 }
 
@@ -296,7 +296,7 @@ footer button{
     color: #fff;
     border-radius: 5px;
     background: blueviolet;
-    border: 1px solid #aqua;
+    border: 1px solid aqua;
     line-height : 10px;
     opacity : 0;
     pointer-events: none;

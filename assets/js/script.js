@@ -211,7 +211,7 @@ let questions = [
       "Light Blue",
       "Sky Blue"
     ]
-  },
+  },{
   numb: 3,
   question: "What color is the sky?",
   answer: "Sky Blue",
@@ -243,4 +243,4 @@ options: [
   "Light Blue",
   "Sky Blue"
 ]
-},
+},]

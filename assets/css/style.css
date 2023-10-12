@@ -449,10 +449,27 @@ footer button.show{
                 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 }
-
-
 /* Media query: large or landscape phones (576px and up) */
-@media screen and (min-width: 576px) {}
+
+@media screen and (min-width: 576px) {
+    .logo {
+        display: flex;
+        padding-top: 2%;
+        padding-left: 25%;
+        text-align:center;
+        color: white;
+        animation: breathe 3500ms infinite forwards;
+    }
+    .signature{
+        color: white;
+        display: flex;
+        padding-top: 37%;
+        padding-left: 80%;
+    }
+}
+
+
+
 
 @media screen and (max-width: 480px) {}
 

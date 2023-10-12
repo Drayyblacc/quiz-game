@@ -23,7 +23,7 @@ body{
 @keyframes breathe {
     50% {
         transform: scaleX(0.8) scaleY(0.8);
-        color: red;
+        color: yellow;
     }
     100% { transform: scaleX(1) scaleY(1)};
 }

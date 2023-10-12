@@ -17,6 +17,15 @@ body{
     padding-top: 8%;
     padding-left: 34%;
     color: white;
+    animation: breathe 3500ms infinite forwards;
+}
+
+@keyframes breathe {
+    50% {
+        transform: scaleX(0.8) scaleY(0.8);
+        color: red;
+    }
+    100% { transform: scaleX(1) scaleY(1)};
 }
 
 ::selection{

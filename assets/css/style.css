@@ -120,7 +120,7 @@ body{
     border: none;
     outline: none;
     border-radius: 5px;
-    border: 1px solid: aqua;
+    border: 1px solid;
     transition: all 0.3s ease;
 }
 
@@ -404,3 +404,30 @@ footer button.show{
     padding-top: 37%;
     padding-left: 88%;
 }
+/* Media query: for phones (576px and up) */
+@media screen and (max-width: 480px) {
+    .logo {
+        display: flex;
+        padding-top: 2%;
+        padding-left: 12%;
+        color: white;
+        animation: breathe 3500ms infinite forwards;
+    }
+    .signature {
+        margin-top: 135%;
+        padding-left: 12%;
+    }
+}
+
+
+/* Media query: large or landscape phones (576px and up) */
+@media screen and (min-width: 576px) {}
+
+@media screen and (max-width: 480px) {}
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {}
+
+@media screen and (min-width: 992px) {}
+
+@media screen and (min-width: 1200px) {}

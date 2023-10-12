@@ -14,3 +14,14 @@ const timeCount = document.querySelector(".timer .timer_sec");
 start_btn.onclick = ()=>{
     info_box.classList.add("activeInfo"); //show info box
 }
+exit_btn.onclick = ()=>{
+    info_box.classList.remove("activeInfo");
+}
+continue_btn.onclick = ()=>{
+    info_box.classList.remove("activeInfo"); 
+    quiz_box.classList.add("activeQuiz"); 
+    showQuetions(0); 
+    queCounter(1); 
+    startTimer(15); 
+    startTimerLine(0); //calling startTimerLine function
+}

@@ -417,6 +417,37 @@ footer button.show{
         margin-top: 135%;
         padding-left: 12%;
     }
+    .start_btn button{
+        width: 280%;
+        font-size: 25px;
+        font-weight: 500;
+        color: blueviolet;
+        padding: 10px 2px;
+        outline: none;
+        border: none;
+        border-radius: 5px;
+        background: #fff;
+        cursor: pointer;
+        margin-left: -60px;
+    }
+   
+.info_box,
+.quiz_box,
+.result_box{
+    font-weight: 200;
+    font-size: 8.5px;
+    position: absolute;
+    margin-top: 10%;
+    height: 80%;
+    width: 30px
+    padding-bottom: 75%;
+    padding-top: 20%;
+    padding-left: 15%;
+    padding-right: 15%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
+                0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 }
 
 

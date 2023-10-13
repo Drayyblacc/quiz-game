@@ -31,9 +31,9 @@ There were a few times were i was missing spellings and the small things like se
 - ### For the whole quiz game
 
 - The issue that troubles me more was the codeanywhere as i ended up loosing hope and using the offline IDE and it worked pretty well for me.
-[The images showing that my server was started and i sis code on it and the errors i got](/assets/images/failing%20codeanywhere.png)
-[The images showing that my server was started and i sis code on it and the errors i got](/assets/images/codeanywher%20server.png)
-[The images showing that my server was started and i sis code on it and the errors i got](/assets/images/Codeanywher%20server%20fail.png)
+[The images showing that my server was started and i did code on it and the errors i got](/assets/images/failing%20codeanywhere.png)
+[The images showing that my server was started and i did  code on it and the errors i got](/assets/images/codeanywher%20server.png)
+[The images showing that my server was started and i did code on it and the errors i got](/assets/images/Codeanywher%20server%20fail.png)
 
 [The images showing the offline Visual Code Editor offline](/assets/images/Screenshot%202023-10-12%20at%2001.38.35.png)
 - - -
@@ -50,3 +50,7 @@ Desktop results had good high look - in all images and text content. Happy to se
 - The other versions was not too good i myself i am still not happy about it and hoping to further develop it but they are visible either way for a game to be completed.
   
 ![Results 2](/assets/images/all%20devices.png)
+
+[Picture 1](/assets/images/Codeanywher%20server%20fail.png) This is a screenshot showing me developing on offline server.
+[Picture 1](/Drayyblacc/quiz-game/assets/images/gitide.png/)This is a screenshot showing me editing on git IDE so i an comitt.
+[Picture 1](Drayyblacc/quiz-game/assets/images/working%on%responsiv.png) This is an image showing me debugging my mobile device design.

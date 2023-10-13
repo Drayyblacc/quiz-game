@@ -51,6 +51,11 @@ Desktop results had good high look - in all images and text content. Happy to se
   
 ![Results 2](/assets/images/all%20devices.png)
 
-[Picture 1](/assets/images/Codeanywher%20server%20fail.png) This is a screenshot showing me developing on offline server.
-[Picture 1](/Drayyblacc/quiz-game/assets/images/gitide.png/)This is a screenshot showing me editing on git IDE so i an comitt.
-[Picture 1](Drayyblacc/quiz-game/assets/images/working%on%responsiv.png) This is an image showing me debugging my mobile device design.
+- This is a screenshot showing me developing on offline server.
+[Picture 1](/assets/images/Codeanywher%20server%20fail.png) 
+
+-This is a screenshot showing me editing on git IDE so i an comitt.
+[Picture 1](/Drayyblacc/quiz-game/assets/images/gitide.png)
+
+-This is an image showing me debugging my mobile device design.
+[Picture 1](Drayyblacc/quiz-game/assets/images/working%on%responsiv.png) 

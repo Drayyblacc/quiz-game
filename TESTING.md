@@ -1,6 +1,6 @@
 # QUIZ GAME BY DERECK YASU - TESTING
 
-![Love Running website by Dereck shown on a range of devices, using amiresponsive(https://ui.dev/amiresponsive)](/assets/images/Screenshot%202023-10-12%20at%2002.29.28.png
+![Love Running website by Dereck shown on a range of devices, using amiresponsive(https://ui.dev/amiresponsive)](/assets/images/Screenshot%202023-10-12%20at%2002.29.28.png)
 LIVE SITE
 
 [You can view the live site here.](https://drayyblacc.github.io/quiz-game)
@@ -45,8 +45,8 @@ Desktop results had good high look - in all images and text content. Happy to se
 
 - Full Website 
   
-![Results](/assets/images/all%20devices.png)
+![Results](/assets/images/Screenshot%202023-10-12%20at%2002.29.28.png)
 
 - The other versions was not too good i myself i am still not happy about it and hoping to further develop it but they are visible either way for a game to be completed.
   
-![Results 2](/)
+![Results 2](/assets/images/all%20devices.png)

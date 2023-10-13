@@ -4,8 +4,7 @@ Welcome to Online Quiz Game by Dereck - a portfolio quiz game. I have built this
 
 Online Quiz Game is built in html, css and javascript and it is not fully responsive on all devices as i did not have enough time to finish it because of the submition deadline how ever it is playable and looking forward to finish developing it soon. As a visitor you can play the quiz game, it has easy methemetical questions that only need one to know multiplication, division, addition and subtraction.
 
-![Online Quiz Game by Dereck shown on all range of devices, using amiresponsive(https://ui.dev/amiresponsive)](assets/images/Screenshot 2023-10-12 at 02.29.28.png)
-
+![Online Quiz Game by Dereck shown on all range of devices, using amiresponsive(https://ui.dev/amiresponsive)](./assets/images/Screenshot%202023-10-12%20at%2002.29.28.png)
 TO VIEW THE LATEST WEBSITE
 [You can see the live website here.](https://drayyblacc.github.io/quiz-game/)
 
@@ -88,7 +87,7 @@ Online Quize Game by Dereck is a web project made to to teach beginner mathemeti
 
 The colour scheme for the website come from the developer to make sure everything is easily visible to the end user. The idea was to keep the quiz game looking colourful and beautiful.
 
-![Color image by Coolors.co ](assets/images/Screenshot 2023-10-13 at 00.52.54.png)
+![Color image by Coolors.co ](/assets/images/Screenshot%202023-10-13%20at%2000.52.54.png)
 
 ### Typography
 
@@ -98,7 +97,7 @@ Google Fonts was used to import both fonts:
 
 - Poppins is the font used on all of the text on the quiz game. This include both a bolder and a lighter font weight.
 
-![Google Fonts used on Love Running by Dereck](assets/images/Screenshot 2023-10-13 at 00.57.58.png)
+![Google Fonts used on Love Running by Dereck](/assets/images/Screenshot%202023-10-13%20at%2000.57.58.png)
 
 Font Awesome is also used for bullet points and the home index page and sign up page on the website.
 
@@ -115,7 +114,7 @@ The Online Quiz Game has only one page but the page has feature of starting the 
 - In the page thats where all features are and it also allows user to restart the game or quit the game.
 
 
-![This is the page that is on the Quiz Game](assets/images/Screenshot 2023-10-12 at 02.29.28.png)
+![This is the page that is on the Quiz Game](/assets/images/Screenshot%202023-10-12%20at%2002.29.28.png)
 
 
 #### Congratulations
@@ -145,9 +144,9 @@ HTML, CSS and Javascript was used to create this website.
 - [Google Fonts](https://fonts.google.com/) - to import the fonts used on the website.
 - [Font Awesome](https://fontawesome.com/icons) - to use icons on the website.
 - [Google Dev Tools](https://developer.chrome.com/docs/) - to troubleshoot using inspect, test and solve issues with any styling.
-- [W3C Markup Validator](https://validator.w3.org/) - to check the source code of my html files for any bugs.
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/) - to check the source code of my html files for any bugs.
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - to check the source code of my css file for any bugs.
-- [Tiny PNG](https://jigsaw.w3.org/css-validator/) - to optimise images for the website.
+- [Python Tutor](https://pythontutor.com/) - to check the source code of my javascript file for any bugs. 
 - [Am I Responsive?](https://ui.dev/amiresponsive?) - to show the website on different responsive devices.
 
 ### Deployment

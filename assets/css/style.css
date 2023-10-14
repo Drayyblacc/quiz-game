@@ -25,7 +25,7 @@ body{
         transform: scaleX(0.8) scaleY(0.8);
         color: yellow;
     }
-    100% { transform: scaleX(1) scaleY(1);
+    100% { transform: scaleX(1) scaleY(1)};
 
 
 ::selection{

@@ -203,55 +203,55 @@ function queCounter(index){
 let questions = [
     {
     numb: 1,
-    question: "What color is the grass?",
+    question: " Add 7 + 2 = ?",
     answer: "Green",
     options: [
-      "Blue",
-      "Green",
-      "White",
-      "Pink"
+      "2",
+      "9",
+      "8",
+      "10"
     ]
   },
     {
     numb: 2,
-    question: "What color is the sky?",
-    answer: "Sky Blue",
+    question: " Add 1 + 1 =?",
+    answer: "2",
     options: [
-      "Dark Blue",
-      "Red",
-      "Light Blue",
-      "Sky Blue"
+      "3",
+      "22",
+      "11",
+      "2"
     ]
   },{
   numb: 3,
-  question: "How many days are in a week?",
+  question: "Multiply 2 x 2 =?",
   answer: "7 Days",
   options: [
-    "7 Days",
-    "8 Days",
-    "3 Days",
-    "11 Days"
+    "4",
+    "8",
+    "3",
+    "11"
   ]
 },
 {
 numb: 4,
-question: "What day is Christmas Day?",
+question: "Subtract 4 - 2 =",
 answer: "25th December",
 options: [
-  "9th June",
-  "25th December",
-  "11th July",
-  "6th March"
+  "0",
+  "2",
+  "4",
+  "5"
 ]
 },
 {
 numb: 5,
-question: "Where do we get Milk from?",
+question: "Division 4 / 2 =",
 answer: "Cows",
 options: [
-  "Horses",
-  "Donkeys",
-  "Cows",
-  "Cats"
+  "6",
+  "4",
+  "2",
+  "8"
 ]
 },]
